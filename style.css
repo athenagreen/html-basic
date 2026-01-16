@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.headings {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-style: italic;
+}
+
+.vwx {
+    background-color: gold;
+    color: purple;
+}
